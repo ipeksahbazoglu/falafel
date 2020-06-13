@@ -1,3 +1,3 @@
 # falafel
 
-Today is 13th of June 2020
+This is a 2D pong game made with the turtle module in Python.
